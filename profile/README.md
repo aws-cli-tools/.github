@@ -1,8 +1,11 @@
 # Welcome to the AWS CLI Tools GitHub Organization
 
-This organization is home to a collection of open-source Command Line Interface (CLI) tools specifically designed for Amazon Web Services (AWS).
+Welcome to the AWS CLI Tools GitHub organization! This organization is dedicated to the development of open-source command-line interface (CLI) tools for Amazon Web Services (AWS).
 
-The main goal of these tools is to enhance the performance and speed of the existing AWS CLI tools. This is accomplished by re-engineering these tools using the Rust programming language, known for its performance benefits and memory safety.
+The primary goal of these tools is twofold:
+
+1. **Enhance the performance and speed of existing AWS CLI tools**: We achieve this by reengineering these tools using the Rust programming language, known for its performance benefits and memory safety.
+2. **Building new tools**: Apart from enhancing existing tools, we also focus on creating new CLI tools that cater to the needs of AWS users and solve unique problems in the AWS ecosystem.
 
 ## Guiding Principles
 
